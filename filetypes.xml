@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="check" type="PLAIN_TEXT" />
+      <mapping pattern="vld_laufzeitvon" type="PLAIN_TEXT" />
+      <mapping pattern="core" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping ext="rw" type="PLAIN_TEXT" />
+      <mapping ext="jade" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
