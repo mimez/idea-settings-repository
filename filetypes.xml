@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="check" type="PLAIN_TEXT" />
       <mapping pattern="vld_laufzeitvon" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping ext="rw" type="PLAIN_TEXT" />
